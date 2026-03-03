@@ -1,6 +1,6 @@
 # 💫 About Me:
-Biomedical Engineering student (2027) focused on biomechanics, medical devices and human-machine interfaces.
-Experience with CAD/CAM, prototyping, embedded systems and biomedical instrumentation.
+Biomedical Engineering student (2027) focused on biomechanics, medical devices and human-machine interfaces.<br/>
+Experience with CAD/CAM, prototyping, embedded systems and biomedical instrumentation.<br/>
 Selected work is private due to ongoing research and academic projects.
 
 
