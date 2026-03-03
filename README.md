@@ -1,5 +1,7 @@
 # 💫 About Me:
-Sou estudante de Engenharia Biomédica na Universidade Lusófona (conclusão prevista 2027), com interesse em reabilitação, biomecânica, dispositivos médicos e interfaces homem-máquina.<br>Tenho competências em instrumentação biomédica, desenho técnico, CAD, CAM, Arduino, C/C++, impressão 3D, simulações e prototipagem, e estou a desenvolver conhecimentos em Python e análise de dados.<br>Sou Fundador e Presidente do Núcleo de Engenharia Biomédica da Universidade Lusófona (NEEBUL) e representante dos estudantes no Conselho Pedagógico, contribuindo para a melhoria da qualidade pedagógica e para a ligação entre alunos, docentes e coordenação.<br>Integrei ainda o Programa INOVEDU como Mentor e Buddy.<br>Fui atleta durante 12 anos, 8 deles em Alto Rendimento, representando Sporting CP e SL Benfica. Esta experiência reforçou resiliência, disciplina, foco em resultados e trabalho em equipa.
+Biomedical Engineering student (2027) focused on biomechanics, medical devices and human-machine interfaces.
+Experience with CAD/CAM, prototyping, embedded systems and biomedical instrumentation.
+Selected work is private due to ongoing research and academic projects.
 
 
 ## 🌐 Socials:
