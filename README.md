@@ -2,10 +2,10 @@
 
 <br/>
 
-Biomedical Engineer<br/>
-Building at the intersection of biology, mechanics and technology.<br/>
-Work spans embedded acquisition hardware, biosignal processing and biomechanical simulation.<br/>
-Also into game dev and creative tools on the side.<br/>
+**Biomedical Engineer**  
+Building at the intersection of biology, mechanics and technology.  
+Work spans embedded acquisition hardware, biosignal processing and biomechanical simulation.  
+Also into game dev and creative tools on the side.  
 Selected work is private due to ongoing research and academic projects.
 
 ## Connect
