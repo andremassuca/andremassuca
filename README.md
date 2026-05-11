@@ -2,7 +2,7 @@
 
 <br/>
 
-**Biomedical Engineer**  
+<strong>Biomedical Engineer</strong>  
 Building at the intersection of biology, mechanics and technology.  
 Work spans embedded acquisition hardware, biosignal processing and biomechanical simulation.  
 Also into game dev and creative tools on the side.  
