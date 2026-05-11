@@ -8,9 +8,19 @@ Work spans embedded acquisition hardware, biosignal processing and biomechanical
 Also into game dev and creative tools on the side.  
 Selected work is private due to ongoing research and academic projects.
 
-## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andremassuca)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://andremassuca.com)
+
+---
+
+## Currently
+
+- Building an active prosthetics control system — embedded acquisition to motor actuation
+- Developing a biomechanical stability pipeline (BSP) for postural analysis
+- Learning TensorFlow and PyTorch
+- Open to research collaborations and internships
+
+---
 
 ## Stack
 
@@ -40,8 +50,13 @@ Selected work is private due to ongoing research and academic projects.
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andremassuca&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=andremassuca&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andremassuca/andremassuca/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andremassuca/andremassuca/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/andremassuca/andremassuca/output/github-snake.svg" />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andremassuca&icon=0&color=0)](https://visitcount.itsvg.in)
