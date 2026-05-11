@@ -8,7 +8,7 @@ Work spans embedded acquisition hardware, biosignal processing and biomechanical
 Also into game dev and creative tools on the side.<br/>
 Selected work is private due to ongoing research and academic projects.
 
-## 🌐 Socials:
+## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andremassuca)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://andremassuca.com)
 
@@ -33,16 +33,9 @@ Selected work is private due to ongoing research and academic projects.
 
 ## Stats
 
-<table><tr><td>
-
 ![](https://github-readme-stats.vercel.app/api?username=andremassuca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=andremassuca&theme=dark&hide_border=false)
-
-</td><td valign="top">
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andremassuca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</td></tr></table>
 
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andremassuca&theme=dark&no-frame=false&no-bg=true&margin-w=4)
