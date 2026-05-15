@@ -1,6 +1,3 @@
-<img src="https://andremassuca.com/github_banner.png" width="100%" />
-
-<br/>
 
 <strong>Biomedical Engineer</strong>  
 Building at the intersection of biology, mechanics and technology.  
