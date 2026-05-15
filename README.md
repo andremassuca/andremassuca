@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/andremassuca/portfolio-andremassuca/main/public/github_banner.png" width="100%" />
+<img src="https://andremassuca.com/github_banner.png" width="100%" />
 
 <br/>
 
@@ -17,7 +17,7 @@ Selected work is private due to ongoing research and academic projects.
 
 ## Currently
 
-- Building an active prosthetics control system — embedded acquisition to motor actuation
+- Building an active prosthetics control system, from embedded acquisition to motor actuation
 - Developing a biomechanical stability pipeline (BSP) for postural analysis
 - Learning TensorFlow and PyTorch
 - Open to research collaborations and internships
